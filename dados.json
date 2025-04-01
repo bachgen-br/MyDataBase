@@ -2,9 +2,16 @@
   "usuarios": [
     {
       "id": "715409",
-      "nomeCompleto": "Bruno Araújo Martins",
+      "nomeCompleto": "Bruno AraÃºjo Martins",
       "login": "715409",
       "senha": "1123",
+      "historico": []
+    },
+    {
+      "id": "208261",
+      "nomeCompleto": "Felipe Pessoa",
+      "login": "208261",
+      "senha": "ziF56#MRz",
       "historico": []
     }
   ],
