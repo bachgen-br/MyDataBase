@@ -1,13 +1,5 @@
 {
-  "usuarios": [
-    {
-      "id": "398400",
-      "nomeCompleto": "Felipe Pessoa",
-      "login": "398400",
-      "senha": "1234",
-      "historico": []
-    }
-  ],
+  "usuarios": [],
   "processos": [],
   "notificacoes": [],
   "votacao": {},
