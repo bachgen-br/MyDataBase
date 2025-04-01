@@ -1,5 +1,13 @@
 {
-  "usuarios": [],
+  "usuarios": [
+    {
+      "id": "715409",
+      "nomeCompleto": "Bruno Araújo Martins",
+      "login": "715409",
+      "senha": "1123",
+      "historico": []
+    }
+  ],
   "processos": [],
   "notificacoes": [],
   "votacao": {},
