@@ -2,7 +2,7 @@
   "usuarios": [
     {
       "id": "715409",
-      "nomeCompleto": "Bruno Ara√∫jo Martins",
+      "nomeCompleto": "Bruno Ara√É¬∫jo Martins",
       "login": "715409",
       "senha": "1123",
       "historico": []
@@ -13,6 +13,13 @@
       "login": "208261",
       "senha": "ziF56#MRz",
       "historico": []
+    },
+    {
+      "id": "505221",
+      "nomeCompleto": "Natan Raiol",
+      "login": "505221",
+      "senha": "#Nanda2710",
+      "historico": []
     }
   ],
   "processos": [
@@ -20,7 +27,7 @@
       "id": "856823",
       "idAutor": "715409",
       "idReu": "208261",
-      "descricao": "No dia 31/03/2025 o ent„o rÈu Felipe Pessoa realizou todas as atividades do treinamento funcional. O que causou desconforto nas pessoas nas pessoas com obesidade.",
+      "descricao": "No dia 31/03/2025 o ent√£o r√©u Felipe Pessoa realizou todas as atividades do treinamento funcional. O que causou desconforto nas pessoas nas pessoas com obesidade.",
       "idJuiz": null,
       "advogadoReu": null,
       "defesaReu": null,
@@ -35,7 +42,7 @@
     {
       "idUsuario": "208261",
       "idProcesso": "856823",
-      "mensagem": "VocÍ foi processado por Bruno Ara√∫jo Martins. AcusaÁ„o: No dia 31/03/2025 o ent„o rÈu Felipe Pessoa realizou todas as atividades do treinamento funcional. O que causou desconforto nas pessoas nas pessoas com obesidade.. Escolha um advogado ou defenda-se em 'Detalhes de Processos'."
+      "mensagem": "Voc√™ foi processado por Bruno Ara√É¬∫jo Martins. Acusa√ß√£o: No dia 31/03/2025 o ent√£o r√©u Felipe Pessoa realizou todas as atividades do treinamento funcional. O que causou desconforto nas pessoas nas pessoas com obesidade.. Escolha um advogado ou defenda-se em 'Detalhes de Processos'."
     }
   ],
   "votacao": {},
