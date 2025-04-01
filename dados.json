@@ -15,8 +15,29 @@
       "historico": []
     }
   ],
-  "processos": [],
-  "notificacoes": [],
+  "processos": [
+    {
+      "id": "856823",
+      "idAutor": "715409",
+      "idReu": "208261",
+      "descricao": "No dia 31/03/2025 o então réu Felipe Pessoa realizou todas as atividades do treinamento funcional. O que causou desconforto nas pessoas nas pessoas com obesidade.",
+      "idJuiz": null,
+      "advogadoReu": null,
+      "defesaReu": null,
+      "status": "aberto",
+      "resultado": null,
+      "multa": 0,
+      "acusacaoDeferida": null,
+      "defesaDeferida": null
+    }
+  ],
+  "notificacoes": [
+    {
+      "idUsuario": "208261",
+      "idProcesso": "856823",
+      "mensagem": "Você foi processado por Bruno AraÃºjo Martins. Acusação: No dia 31/03/2025 o então réu Felipe Pessoa realizou todas as atividades do treinamento funcional. O que causou desconforto nas pessoas nas pessoas com obesidade.. Escolha um advogado ou defenda-se em 'Detalhes de Processos'."
+    }
+  ],
   "votacao": {},
   "caixa": 0
 }
