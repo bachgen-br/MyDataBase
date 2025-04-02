@@ -45,6 +45,22 @@
       "defesaDeferida": null,
       "loginTemp": "J1744",
       "senhaTemp": "nue9yojt"
+    },
+    {
+      "id": "368867",
+      "idAutor": "208261",
+      "idReu": "528833",
+      "advogadoAutor": null,
+      "advogadoReu": null,
+      "idJuiz": null,
+      "descricao": "No dia 2 de abril de 2025, no Porto de Imbetiba, Leonardo ofendeu a honra de Felipe Pessoa ao deformar publicamente seu nome para \"FelippO\", em tom sarcástico e zombeteiro, com nítido intuito de humilhar, configurando injúria pessoal e discriminação de gênero.",
+      "defesaReu": null,
+      "status": "aberto",
+      "acusacaoDeferida": null,
+      "multa": null,
+      "loginTemp": null,
+      "senhaTemp": null,
+      "pagamentoConfirmado": false
     }
   ],
   "notificacoes": [
@@ -62,6 +78,11 @@
       "idUsuario": "505221",
       "idProcesso": "856823",
       "mensagem": "VocÃª foi designado juiz do processo 856823 pelo administrador. Use estas credenciais para julgÃ¡-lo: Login: J1744 | Senha: nue9yojt"
+    },
+    {
+      "idUsuario": "528833",
+      "idProcesso": "368867",
+      "mensagem": "Você foi processado por Felipe no processo 368867. Veja os detalhes em 'Casos contra Mim'."
     }
   ],
   "votacao": {},
