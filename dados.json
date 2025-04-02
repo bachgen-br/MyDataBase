@@ -2,7 +2,7 @@
   "usuarios": [
     {
       "id": "715409",
-      "nomeCompleto": "Bruno AraÃƒÂºjo Martins",
+      "nomeCompleto": "Bruno AraÃƒÆ’Ã‚Âºjo Martins",
       "login": "715409",
       "senha": "1123",
       "historico": []
@@ -34,10 +34,10 @@
       "id": "856823",
       "idAutor": "715409",
       "idReu": "208261",
-      "descricao": "No dia 31/03/2025 o entÃ£o rÃ©u Felipe Pessoa realizou todas as atividades do treinamento funcional. O que causou desconforto nas pessoas nas pessoas com obesidade.",
+      "descricao": "No dia 31/03/2025 o entÃƒÂ£o rÃƒÂ©u Felipe Pessoa realizou todas as atividades do treinamento funcional. O que causou desconforto nas pessoas nas pessoas com obesidade.",
       "idJuiz": null,
       "advogadoReu": "528833",
-      "defesaReu": "Excel�ncia, no dia 31/03/2025, Felipe Pessoa apenas participou integralmente do treinamento funcional, conforme orienta��es gerais. Em momento algum teve conduta ofensiva ou discriminat�ria. A interpreta��o equivocada de seu desempenho como \"jogo\" revela mais sobre percep��es individuais do que sobre qualquer inten��o do acusado. N�o h� conduta il�cita ou desrespeitosa a ser punida.",
+      "defesaReu": "Excelência, no dia 31/03/2025, Felipe Pessoa apenas participou integralmente do treinamento funcional, conforme orientações gerais. Em momento algum teve conduta ofensiva ou discriminatória. A interpretação equivocada de seu desempenho como \"jogo\" revela mais sobre percepções individuais do que sobre qualquer intenção do acusado. Não há conduta ilícita ou desrespeitosa a ser punida.",
       "status": "aberto",
       "resultado": null,
       "multa": 0,
@@ -49,12 +49,12 @@
     {
       "idUsuario": "208261",
       "idProcesso": "856823",
-      "mensagem": "VocÃª foi processado por Bruno AraÃƒÂºjo Martins. AcusaÃ§Ã£o: No dia 31/03/2025 o entÃ£o rÃ©u Felipe Pessoa realizou todas as atividades do treinamento funcional. O que causou desconforto nas pessoas nas pessoas com obesidade.. Escolha um advogado ou defenda-se em 'Detalhes de Processos'."
+      "mensagem": "VocÃƒÂª foi processado por Bruno AraÃƒÆ’Ã‚Âºjo Martins. AcusaÃƒÂ§ÃƒÂ£o: No dia 31/03/2025 o entÃƒÂ£o rÃƒÂ©u Felipe Pessoa realizou todas as atividades do treinamento funcional. O que causou desconforto nas pessoas nas pessoas com obesidade.. Escolha um advogado ou defenda-se em 'Detalhes de Processos'."
     },
     {
       "idUsuario": "528833",
       "idProcesso": "856823",
-      "mensagem": "Você foi escolhido como advogado do réu no processo 856823. Escreva a defesa em 'Notificações'."
+      "mensagem": "VocÃª foi escolhido como advogado do rÃ©u no processo 856823. Escreva a defesa em 'NotificaÃ§Ãµes'."
     }
   ],
   "votacao": {},
