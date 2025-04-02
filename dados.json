@@ -35,14 +35,16 @@
       "idAutor": "715409",
       "idReu": "208261",
       "descricao": "No dia 31/03/2025 o entÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©u Felipe Pessoa realizou todas as atividades do treinamento funcional. O que causou desconforto nas pessoas nas pessoas com obesidade.",
-      "idJuiz": null,
+      "idJuiz": "505221",
       "advogadoReu": "528833",
       "defesaReu": "ExcelÃƒÂªncia, no dia 31/03/2025, Felipe Pessoa apenas participou integralmente do treinamento funcional, conforme orientaÃƒÂ§ÃƒÂµes gerais. Em momento algum teve conduta ofensiva ou discriminatÃƒÂ³ria. A interpretaÃƒÂ§ÃƒÂ£o equivocada de seu desempenho como \"jogo\" revela mais sobre percepÃƒÂ§ÃƒÂµes individuais do que sobre qualquer intenÃƒÂ§ÃƒÂ£o do acusado. NÃƒÂ£o hÃƒÂ¡ conduta ilÃƒÂ­cita ou desrespeitosa a ser punida.",
       "status": "aberto",
       "resultado": null,
       "multa": 0,
       "acusacaoDeferida": null,
-      "defesaDeferida": null
+      "defesaDeferida": null,
+      "loginTemp": "J1744",
+      "senhaTemp": "nue9yojt"
     }
   ],
   "notificacoes": [
@@ -55,6 +57,11 @@
       "idUsuario": "528833",
       "idProcesso": "856823",
       "mensagem": "VocÃƒÆ’Ã‚Âª foi escolhido como advogado do rÃƒÆ’Ã‚Â©u no processo 856823. Escreva a defesa em 'NotificaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes'."
+    },
+    {
+      "idUsuario": "505221",
+      "idProcesso": "856823",
+      "mensagem": "Voc� foi designado juiz do processo 856823 pelo administrador. Use estas credenciais para julg�-lo: Login: J1744 | Senha: nue9yojt"
     }
   ],
   "votacao": {},
