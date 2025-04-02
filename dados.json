@@ -43,6 +43,20 @@
       "multa": 0,
       "acusacaoDeferida": null,
       "defesaDeferida": null
+    },
+    {
+      "id": "958403",
+      "idAutor": "505221",
+      "idReu": "528833",
+      "descricao": "No mês de janeiro de 2025, Leonardo Carvalho de Oliveira Souza, junto a outros colaboradores, danificou equipamentos de trabalho e sabotou teclados, prejudicando Natan Raiol. O ato causou prejuízo profissional e abalo moral. Requer-se indenização por danos morais e a responsabilização do réu.",
+      "idJuiz": null,
+      "advogadoReu": null,
+      "defesaReu": null,
+      "status": "aberto",
+      "resultado": null,
+      "multa": 0,
+      "acusacaoDeferida": null,
+      "defesaDeferida": null
     }
   ],
   "notificacoes": [
@@ -55,6 +69,11 @@
       "idUsuario": "528833",
       "idProcesso": "856823",
       "mensagem": "VocÃƒÂª foi escolhido como advogado do rÃƒÂ©u no processo 856823. Escreva a defesa em 'NotificaÃƒÂ§ÃƒÂµes'."
+    },
+    {
+      "idUsuario": "528833",
+      "idProcesso": "958403",
+      "mensagem": "Você foi processado por Natan Raiol. Acusação: No mês de janeiro de 2025, Leonardo Carvalho de Oliveira Souza, junto a outros colaboradores, danificou equipamentos de trabalho e sabotou teclados, prejudicando Natan Raiol. O ato causou prejuízo profissional e abalo moral. Requer-se indenização por danos morais e a responsabilização do réu.. Escolha um advogado ou defenda-se em 'Detalhes de Processos'."
     }
   ],
   "votacao": {},
